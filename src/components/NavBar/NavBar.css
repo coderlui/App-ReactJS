@@ -1,5 +1,14 @@
 /* menu styles */
 
+.alerta {
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
+    background-image: linear-gradient(to right, #E1E3E4, peachpuff);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 .menuNavegacion {
     text-align: center;
     color: #7d6b7d;
@@ -11,3 +20,24 @@
 .nav-link {
     font-size: 18px;
 }
+
+.navigationImg {
+    display: block;
+	margin-top: 30px;
+  	margin-left: auto;
+  	margin-right: auto;
+  	margin-bottom: 20px;
+  	width: 15%;
+}
+
+.message {
+    color: #7d6b7d;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.botones {
+    margin-bottom: 100px;
+}
+
